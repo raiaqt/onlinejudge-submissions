@@ -2,5 +2,5 @@
 
 ##### 0306
 * Factors Factorial
-* Nine Knights
+* Nine Knights (Kattis)
 * Ray Through Glasses
