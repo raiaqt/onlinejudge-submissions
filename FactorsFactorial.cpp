@@ -45,16 +45,12 @@ int main() {
 	scanf("%d", &num);
 
 	while (num != 0) {
-	    printf("%*d! =", 3, num);
 		for (int i = 0; i < primeSize; i++) {
 			int output = factors[num][primes[i]];
 			if (output == 0) break;
-		    if (i != 0 && i % 15 == 0) {
-		        printf("\n%*s", 6, "");
-		    }
-			printf("%*d", 3, output);
+			printf("%d ", output);
 		}
-        printf("\n");
+		printf("\n");
 		scanf("%d", &num);
 	}
 	return 0;
