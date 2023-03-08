@@ -11,3 +11,7 @@
 * Ferry Loading IV
 * Broken Keyboard
 * Rails
+
+##### 0308
+* Matrix Transpose
+* Incomplete Chessboard
