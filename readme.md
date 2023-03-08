@@ -15,3 +15,4 @@
 ##### 0308
 * Matrix Transpose
 * Incomplete Chessboard
+* Super Sale
