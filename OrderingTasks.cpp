@@ -1,13 +1,32 @@
 #include <cstdio>
 
+int** list;
+int* size;
+bool* visited;
+int* sorted;
+int sz;
+
+void dfs(int task) {
+    visited[task] = true;
+    
+    for (int i = 0; i < size[task]; i++) {
+        int next = list[task][i];
+        if (!visited[next]) {
+            dfs(next);
+        }
+    }
+    sorted[sz++] = task;
+}
+
 int main() {
     int n, m;
     scanf("%d %d", &n, &m);
     while(n + m > 0) {
         n++;
         int* hasParent = new int[n];
-        int* size = new int[n];
-        int** list = new int*[n];
+        size = new int[n];
+        list = new int*[n];
+        
         for (int i = 0; i < n; i++) {
             list[i] = new int[n];
         }
@@ -20,32 +39,20 @@ int main() {
             hasParent[dest] = true;
         }
         
-        // bfs
-        int* queue = new int[n];
-        bool* visited = new bool[n];
-        int start = 0;
-        int end = 0;
+        visited = new bool[n];
+        sorted = new int[n];
+        sz = 0;
         
         for (int i = 1; i < n; i++) {
             if (!hasParent[i]) {
-                queue[end++] = i;
-                visited[i] = true;
+                dfs(i);
             } 
         }
-        
-        while (start < end) {
-            int task = queue[start++];
-            for (int i = 0; i < size[task]; i++) {
-                int next = list[task][i];
-                if (!visited[next]) {
-                    queue[end++] = next;
-                }
-            }
+       
+        for (int i = n - 2; i > 0; i--) {
+            printf("%d ", sorted[i]);
         }
-        for (int i = 0; i < n - 2; i++) {
-            printf("%d ", queue[i]);
-        }
-        printf("%d\n", queue[n - 2]);
+        printf("%d\n", sorted[0]);
         scanf("%d %d", &n, &m);
     }
 
