@@ -21,3 +21,7 @@
 * Brothers & Sisters
 * Unique Snowflake
 * Ordering Tasks
+
+##### 0310
+* Splitting Numbers
+* Adding Reversed Numbers
