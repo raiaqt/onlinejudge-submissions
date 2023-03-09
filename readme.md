@@ -16,3 +16,7 @@
 * Matrix Transpose
 * Incomplete Chessboard
 * Super Sale
+
+##### 0309
+* Unique Snowflake
+* Ordering Tasks
