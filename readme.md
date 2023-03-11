@@ -33,3 +33,4 @@
 * Back to the Past
 * Jumping Mario
 * Horror Dash
+* Emoogle Balance
