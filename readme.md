@@ -32,3 +32,4 @@
 * Etruscan Warriors Never Play Chess
 * Back to the Past
 * Jumping Mario
+* Horror Dash
