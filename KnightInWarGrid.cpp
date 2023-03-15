@@ -35,22 +35,15 @@ void dfs(int x, int y) {
 		int* d = M > 0 ? dx : dy;
 		for (int i = 0; i < 2; i++) {
 			visit(x, y, d[i], 0, reach);
-		}
-		for (int i = 0; i < 2; i++) {
 			visit(x, y, 0, d[i], reach);
 		}
 	} else {
 		for (int i = 0; i < 2; i++) {
 			for (int j = 0; j < 2; j++) {
 				visit(x, y, dx[i], dy[j], reach);
-			}
-		}
-		for (int i = 0; i < 2; i++) {
-			for (int j = 0; j < 2; j++) {
 				visit(x, y, dy[j], dx[i], reach);
 			}
 		}
-
 	}
 
 	if (reach & 1) {

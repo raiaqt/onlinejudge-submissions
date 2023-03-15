@@ -3,15 +3,14 @@
 #include <cstdio>
 
 int main() {
-	const int max = 20005;
+	const int max = 10005;
 	const int m = 1000000007;
 	int T;
-	char* A;
+	char A[max];
 
 	scanf("%d", &T);
 
 	for (int t = 1; t <= T; t++) {
-		A = new char[max];
 		scanf("%s", A);
 
 		int S = 0;

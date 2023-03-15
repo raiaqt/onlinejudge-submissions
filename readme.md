@@ -42,3 +42,10 @@
 ##### 0312
 * Forwarding Emails
 * Misa
+
+##### 0314
+* Alien Numbers (Kattis)
+
+
+##### 0315
+* Not That Kind
