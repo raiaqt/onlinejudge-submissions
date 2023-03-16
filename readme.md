@@ -35,13 +35,13 @@
 * Horror Dash
 * Emoogle Balance
 
-##### 0311
+##### 0312
 * Dominos2
 * Knight in War Grid
 
-##### 0312
+##### 0313
 * Forwarding Emails
-* Misa
+* Misa (Kattis)
 
 ##### 0314
 * Alien Numbers (Kattis)
@@ -49,3 +49,8 @@
 
 ##### 0315
 * Not That Kind
+
+##### 0316
+* Hardware (Kattis)
+* Algorithm of Phil
+* Password Search
