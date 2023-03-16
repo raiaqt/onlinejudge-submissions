@@ -54,3 +54,4 @@
 * Hardware (Kattis)
 * Algorithm of Phil
 * Password Search
+* Hamiltonian Hypercube (Kattis)
