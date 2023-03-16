@@ -3,7 +3,7 @@
 #include <cstdio>
 
 int main() {
-	const int max = 10005;
+	const int max = 100005;
 	const int m = 1000000007;
 	int T;
 	char A[max];
