@@ -61,3 +61,9 @@
 * To Carry or not to Carry
 * Grey Codes
 * Brother Arif, Please Feed Us
+
+##### 0318
+* Aaah (Kattis)
+
+##### 0319
+* DNA Consensus String
