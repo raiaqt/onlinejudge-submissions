@@ -61,6 +61,7 @@
 * To Carry or not to Carry
 * Grey Codes
 * Brother Arif, Please Feed Us
+* Zebras and Ocelot
 
 ##### 0318
 * Aaah (Kattis)
@@ -72,3 +73,7 @@
 
 ##### 0320
 * Bank Queue
+
+##### 0321
+* Travelling Alex (Hacker Earth)
+* Bobby (Kattis)
