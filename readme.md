@@ -83,3 +83,6 @@
 
 ##### 0323
 * Purple Rain (Kattis)
+
+##### 0324
+* Movie Collection (Kattis)
