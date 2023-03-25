@@ -87,3 +87,6 @@
 ##### 0324
 * Movie Collection (Kattis)
 * Best Compression Ever (Kattis)
+
+##### 0325
+* Apples (Kattis)
