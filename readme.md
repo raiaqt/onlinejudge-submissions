@@ -94,3 +94,4 @@
 
 ##### 0326
 * Battle Simulation (Kattis)
+* Busy Schedule (Kattis)
