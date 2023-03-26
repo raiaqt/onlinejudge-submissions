@@ -91,3 +91,6 @@
 ##### 0325
 * Apples (Kattis)
 * Batmanacci (Kattis)
+
+##### 0326
+* Battle Simulation (Kattis)
