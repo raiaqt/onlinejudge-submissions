@@ -96,3 +96,6 @@
 * Battle Simulation (Kattis)
 * Busy Schedule (Kattis)
 * The Hamming Distance Problem
+
+##### 0327
+* Alphabet (Kattis)
