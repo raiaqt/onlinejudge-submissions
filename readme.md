@@ -109,3 +109,9 @@
 
 ##### 0330
 * Birds (Kattis)
+
+##### 0331
+* Alice in the Digital World (Kattis)
+
+##### 0401
+* Letter Frequency
