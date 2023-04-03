@@ -118,3 +118,6 @@
 
 ##### 0402
 * Baloni (Kattis)
+
+##### 0403
+* Counting Subsequences Hard (Kattis)
