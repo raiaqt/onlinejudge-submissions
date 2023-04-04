@@ -121,3 +121,6 @@
 
 ##### 0403
 * Counting Subsequences Hard (Kattis)
+
+##### 0404
+* Birthday Party (Kattis)
