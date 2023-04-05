@@ -124,3 +124,7 @@
 
 ##### 0404
 * Birthday Party (Kattis)
+
+##### 0405
+* Card Trick (Kattis)
+* Box
