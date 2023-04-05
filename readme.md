@@ -128,3 +128,4 @@
 ##### 0405
 * Card Trick (Kattis)
 * Box
+* Jumbled Communication (Kattis)
