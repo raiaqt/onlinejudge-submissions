@@ -129,3 +129,8 @@
 * Card Trick (Kattis)
 * Box
 * Jumbled Communication (Kattis)
+* Condurum
+
+##### 0406
+* Pick Up Sticks
+* Pick Up Sticks (Kattis)
