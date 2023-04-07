@@ -134,3 +134,6 @@
 ##### 0406
 * Pick Up Sticks
 * Pick Up Sticks (Kattis)
+
+##### 0407
+* Breaking Bad (Kattis)
