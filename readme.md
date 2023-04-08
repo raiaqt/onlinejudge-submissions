@@ -46,7 +46,6 @@
 ##### 0314
 * Alien Numbers (Kattis)
 
-
 ##### 0315
 * Not That Kind
 
@@ -72,7 +71,7 @@
 * Alphabet Spam
 
 ##### 0320
-* Bank Queue
+* Bank Queue (Kattis)
 
 ##### 0321
 * Travelling Alex (Hacker Earth)
