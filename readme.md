@@ -139,3 +139,7 @@
 
 ##### 0408
 * ASCII Area
+
+##### 0409
+* Above Average (Kattis)
+* Biased Standings (Kattis)
