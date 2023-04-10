@@ -143,3 +143,6 @@
 ##### 0409
 * Above Average (Kattis)
 * Biased Standings (Kattis)
+
+##### 0410
+* Spelling Bee (Kattis)
