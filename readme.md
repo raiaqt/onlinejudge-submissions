@@ -158,3 +158,7 @@
 
 ##### 0414
 * A Giveaway
+
+##### 0417
+* Building Highways (Kattis)
+* Square Deal (Kattis)
