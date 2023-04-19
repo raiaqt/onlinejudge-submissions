@@ -162,3 +162,9 @@
 ##### 0417
 * Building Highways (Kattis)
 * Square Deal (Kattis)
+
+##### 0418
+* KTV
+
+##### 0419
+* Burger Stand
