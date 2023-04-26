@@ -171,3 +171,18 @@
 
 ##### 0420
 * Geppetto (Kattis)
+
+##### 0421
+* Building Pyramids (Kattis)
+
+##### 0422
+* Balanced Diet (Kattis)
+
+##### 0424
+* Adding Words (WIP)
+
+##### 0425
+* Debugger (WIP)
+
+##### 0426
+* Debugger (WIP)
